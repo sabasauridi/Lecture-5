@@ -1,0 +1,211 @@
+body{
+    background-color: #F1F1F1;
+}
+.container{
+    position: fixed; 
+    margin: auto 137px;
+}
+.nav1{
+    display: inline-block;
+    
+}
+.logo{
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    margin-top: 21px;
+    display: inline-block;
+        vertical-align: middle;
+}
+.home{
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.discovery{
+    margin-left: 35px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.photos{
+    margin-left: 35px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.contact{
+    margin-left: 35px;
+    margin-right: 29px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.ex1{
+    display: inline-block;
+}
+h1{
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 76px;
+}
+.maindiv{
+    display: inline-block;
+}
+.div1{
+    margin-top: 27px;
+    width: 362px;
+    height: 357px;
+    border-radius: 0px 0px 5px 5px;
+    background: #FFF;
+}
+.txt{
+    color: #8A8787;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 238px;
+    height: 36px;
+    margin-top: 68px;
+    margin-left: 37px;
+    display: block;
+}
+.ellipse2{
+    margin-top: 11px;
+    margin-left: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.time{
+    width: 34px;
+    height: 12px;
+    color: #8A8787;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+}
+.maindiv1{
+    display: inline-block;
+    margin-left: 40px;
+}
+.container2{
+        
+        margin: auto 137px;
+}
+.banner{
+    display:block;
+    margin-top: 30px;
+    width: 758px;
+    height: 430px;
+}
+.ex2{
+    display: inline-block;
+    width: 758px;
+    vertical-align: top;
+}
+.ex3{
+    display: inline-block;
+    width: 362px;
+    vertical-align: top;
+}
+.ex3 img{
+    display: inline-block;
+    margin-left: 45px;
+
+}
+.minibanner1{
+    margin-top: 30px;
+}
+.minibanner2{
+    margin-top: 98px;
+}
+.minibanner3{
+    margin-top: 103px;
+}
+.info{
+    width: 100%;
+    height: 201px;
+    background-color: #243043;
+    margin-top: 36px;
+
+}
+.abt{
+    display: inline-block; 
+    margin-top: 40px;
+    vertical-align: top;
+}
+.list1{
+    display: block;
+    margin-left: 157px;
+    margin-bottom: 14px;
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 70px;
+    height: 14px;
+}
+.list11{
+    display: block;
+    margin-left: 96px;
+    margin-bottom: 14px;
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 70px;
+    height: 14px;
+}
+.abt2{
+    display: inline-block;
+    vertical-align: top;
+}
+h4{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 249px;
+    height: 14px;
+    margin-left: 112px;
+    margin-top: 59px;
+}
+.geolab{
+    margin-left: 795px;
+    margin-bottom: 103px;
+    width: 38px;
+    height: 40px;
+}
